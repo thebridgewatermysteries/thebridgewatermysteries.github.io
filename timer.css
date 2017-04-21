@@ -1,0 +1,26 @@
+.timer {
+	border-style: dashed;
+	border-color: red;
+	color: red;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-size: 48px;
+}
+
+div {
+
+}
+
+body {
+	background-color: black;
+}
