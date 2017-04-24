@@ -17,9 +17,36 @@
     font-size: 48px;
 }
 
-div {
+.ttl {
+	position: absolute;
+    left: 0;
+    top: 60%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
 
+	color: red;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 30px;
+	font-size: 30px;
 }
+
+.bdy {
+	position: absolute;
+    left: 0;
+    top: 60%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+
+	color: red;
+	text-align: left;
+	vertical-align: middle;
+	line-height: 30px;
+	font-size: 15px;
+}
+
 
 body {
 	background-color: black;
