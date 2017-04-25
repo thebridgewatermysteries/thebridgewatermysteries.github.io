@@ -20,7 +20,7 @@
 .ttl {
 	position: absolute;
     left: 0;
-    top: 60%;
+    top: 20%;
     width: 50%;
     margin-left: 25%;
     text-align: center;
@@ -35,7 +35,7 @@
 .bdy {
 	position: absolute;
     left: 0;
-    top: 60%;
+    top: 20%;
     width: 50%;
     margin-left: 25%;
     text-align: center;
@@ -45,6 +45,10 @@
 	vertical-align: middle;
 	line-height: 30px;
 	font-size: 15px;
+}
+
+a {
+	color: red;
 }
 
 
